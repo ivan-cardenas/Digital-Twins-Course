@@ -1,0 +1,20 @@
+title: "Digital Twins for Urban Planning & Management"
+description: "A geo-technology focused course in capsule lecture format"
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Module 1 – Foundations"
+    url: /module-1/
+  - title: "Module 2 – Geo Data Infrastructure"
+    url: /module-2/
+  - title: "Module 3 – 3D City Modeling"
+    url: /module-3/
+  - title: "Module 4 – Real-Time & IoT"
+    url: /module-4/
+  - title: "Module 5 – Cross-Sectoral Analysis"
+    url: /module-5/
+  - title: "Module 6 – Platforms & Case Studies"
+    url: /module-6/
