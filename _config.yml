@@ -1,6 +1,7 @@
 title: "Digital Twins for Urban Planning & Management"
 description: "A geo-technology focused course in capsule lecture format"
-remote_theme: kitian616/jekyll-TeXt-theme-dark
+remote_theme: kitian616/jekyll-TeXt-theme
+text_skin: dark
 markdown: kramdown
 
 plugins:
