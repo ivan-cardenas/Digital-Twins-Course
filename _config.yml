@@ -3,6 +3,9 @@ description: "A geo-technology focused course in capsule lecture format"
 remote_theme: joshgerdes/jekyll-uno
 markdown: kramdown
 
+plugins:
+  - jekyll-remote-theme
+
 nav:
   - title: "Home"
     url: /
