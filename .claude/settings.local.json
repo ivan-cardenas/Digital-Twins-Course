@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:kitian616.github.io)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/_config.yml\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/README.md\")"
+    ]
+  }
+}
